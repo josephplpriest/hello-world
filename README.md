@@ -1,2 +1,1 @@
-# hello-world
-Created from my cell phone
+# Created from my cell phone
